@@ -30,8 +30,12 @@
 
 
 <h3 align="left"><a href="[https://github.com/bzzz-coding/heatmap-1](https://github.com/bzzz-coding/catlog-100hp)">My full stack catlog app:</a></h3>
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/86077274/193366192-482c1848-c9a4-4328-ae64-815db1a26909.gif)
 
+<p align="center">
+
+![Demo Catlop App](https://user-images.githubusercontent.com/86077274/193367235-740d9f1c-508c-4f7e-a840-8e5a8a1ddfa7.gif)
+
+</p>
 
 <h3 align="left"><a href="https://github.com/bzzz-coding/heatmap-1">My full stack daily track tracker app:</a></h3>
 
