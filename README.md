@@ -32,14 +32,14 @@
 <h3 align="left"><a href="[https://github.com/bzzz-coding/heatmap-1](https://github.com/bzzz-coding/catlog-100hp)">My full stack catlog app:</a></h3>
 
 <p align="center">
-
-![Demo Catlop App](https://user-images.githubusercontent.com/86077274/193367235-740d9f1c-508c-4f7e-a840-8e5a8a1ddfa7.gif)
-
+  <img src="https://user-images.githubusercontent.com/86077274/193367235-740d9f1c-508c-4f7e-a840-8e5a8a1ddfa7.gif" alt="animated" />
 </p>
 
 <h3 align="left"><a href="https://github.com/bzzz-coding/heatmap-1">My full stack daily track tracker app:</a></h3>
 
-https://user-images.githubusercontent.com/86077274/191547796-d4df51bd-312d-4843-9721-f64bd329649d.mov
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/86077274/191547796-d4df51bd-312d-4843-9721-f64bd329649d.mov" width="180"></video>
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bzzz-coding&show_icons=true&locale=en&layout=compact" alt="bzzz-coding" /></p>
 
