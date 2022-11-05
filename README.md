@@ -30,11 +30,16 @@
 
 
 <h3 align="left"><a href="[https://github.com/bzzz-coding/heatmap-1](https://github.com/bzzz-coding/catlog-100hp)">Catlog:</a></h3>
-<video src="https://user-images.githubusercontent.com/86077274/200139024-4eb87c91-c2d5-406a-907f-e6fed106ce81.mov" />
+<p align="center">
+<video src="https://user-images.githubusercontent.com/86077274/200139108-50f27aa8-9c74-4935-8d52-51ba9e61a3b8.mov"/>
+</p>
+
 
 
 <h3 align="left"><a href="https://github.com/bzzz-coding/heatmap-1">Daily Task Tracker:</a></h3>
-<video src="https://user-images.githubusercontent.com/86077274/200138892-d06c3734-fa4d-4d7b-8121-8c6f3f2f176f.mov" />
+<p align="center">
+<video src="https://user-images.githubusercontent.com/86077274/200139111-29dcb8a9-3175-4d2e-9d1e-24d6cf4bc43c.mov" />
+</p>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bzzz-coding&show_icons=true&locale=en&layout=compact" alt="bzzz-coding" /></p>
