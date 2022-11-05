@@ -41,6 +41,12 @@
 
 https://user-images.githubusercontent.com/86077274/191547796-d4df51bd-312d-4843-9721-f64bd329649d.mov
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bzzz-coding&show_icons=true&locale=en&layout=compact" alt="bzzz-coding" /></p>
+
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bzzz-coding"/></a>
+</p>
 
 
 
