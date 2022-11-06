@@ -67,7 +67,6 @@
         <br />
         <p align="center">
       </p>
-        <br />
         <p><strong>React, Node, Express, JSON Server, Javascript, HTML, TailwindCSS, daisyUI & CSS</strong> - Track the priority and progress of all projects, never drop a ball!</p>
     </td>
     
