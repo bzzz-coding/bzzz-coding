@@ -31,7 +31,6 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-
   <tr>
   <td width="50%" valign="top">
       <h3 align="center">Catlog</h3>
@@ -56,6 +55,23 @@
         <br />
         <p><strong>Node, Express, MongoDB, EJS, Javascript, HTML & CSS</strong> - Track and celebrate the completion of user's daily tasks with a GitHub-style heatmap!</p>
     </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Tracker</h3>
+        <br />
+        <a target="_blank" href="https://github.com/bzzz-coding/project-management-app">
+            <video src="https://user-images.githubusercontent.com/86077274/200188445-ad1c30c7-df32-46d9-ade5-f44ab991de7d.mov" width="100%" alt="Daily Task Heatmap"/>
+        </a>
+        <br />
+        <p align="center">
+      </p>
+        <br />
+        <p><strong>React, Node, Express, JSON Server, Javascript, HTML, TailwindCSS, daisyUI & CSS</strong> - Track the priority and progress of all projects, never drop a ball!</p>
+    </td>
+    
+
   </tr>
   
 </table>
