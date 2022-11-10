@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **a MERN-stack board-game app.**
+- 🔭 I’m currently working on **a MERN-stack boardgame app.**
 
 - 🌱 I’m currently learning **Redux and PostgreSQL.**
 
