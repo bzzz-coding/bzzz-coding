@@ -9,11 +9,11 @@
 
 - ⚡ Here is my portfolio site [bitian-zhang.netlify.app](bitian-zhang.netlify.app)
 
-- 📝 I regularly write articles on [https://bzzz.hashnode.dev/](https://bzzz.hashnode.dev/)
+- 📝 I regularly write articles on [bzzz.hashnode.dev](bzzz.hashnode.dev)
 
 - 📫 How to reach me **bzzz.coding@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/bitian-zhang](linkedin.com/in/bitian-zhang)
+- 📄 Connect with me on LinkedIn [linkedin.com/in/bitian-zhang](linkedin.com/in/bitian-zhang)
 
 - ✨ Check out my artwork at **tiantian-art.netlify.app**
 
