@@ -69,24 +69,22 @@
       </p>
         <p><strong>React, Node, Express, JSON Server, Javascript, HTML, TailwindCSS, daisyUI & CSS</strong> - Track the priority and progress of all projects, never drop a ball!</p>
     </td>
-    
     <td width="50%" valign="top">
-      <h3 align="center">Board Game Tracker</h3>
+      <h3 align="center">Daily Task Heatmap</h3>
         <br />
-        <a target="_blank" href="https://github.com/bzzz-coding/project-management-app">
-          <img width="100%" alt="Screen Shot Board Game Tracker App" src="https://user-images.githubusercontent.com/86077274/202543229-a087a5b3-aaa3-4f6e-9ba2-a1f7b2173e2c.png">
+        <a target="_blank" href="https://github.com/bzzz-coding/heatmap-1">
+            <img width="100%" alt="Screen Shot Board Game Tracker App" src="https://user-images.githubusercontent.com/86077274/202543229-a087a5b3-aaa3-4f6e-9ba2-a1f7b2173e2c.png">
         </a>
         <br />
         <p align="center">
       </p>
-
-        <p><strong>React, Node, Express, JSON Server, Javascript, HTML, TailwindCSS, daisyUI & CSS</strong> - Track the priority and progress of all projects, never drop a ball!</p>
+        <br />
+        <p><strong>Node, Express, MongoDB, EJS, Javascript, HTML & CSS</strong> - Track and celebrate the completion of user's daily tasks with a GitHub-style heatmap!</p>
     </td>
-    
-
   </tr>
   
 </table>
+
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bzzz-coding&show_icons=true&locale=en&layout=compact" alt="bzzz-coding" /></p>
