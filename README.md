@@ -72,13 +72,14 @@
     <td width="50%" valign="top">
       <h3 align="center">Board Game Tracker</h3>
         <br />
-        <a target="_blank" href="https://github.com/bzzz-coding/heatmap-1">
+        <a target="_blank" href="https://github.com/bzzz-coding/board-game-tracker">
             <img width="100%" alt="Screen Shot Board Game Tracker App" src="https://user-images.githubusercontent.com/86077274/202543229-a087a5b3-aaa3-4f6e-9ba2-a1f7b2173e2c.png">
         </a>
         <br />
         <p align="center">
       </p>
         <br />
+        <p> </p>
         <p><strong>React, Redux, Node, Express, JSON Server, Javascript, HTML, TailwindCSS and daisyUI</strong> - Track and celebrate the fun with each game play!</p>
     </td>
   </tr>
