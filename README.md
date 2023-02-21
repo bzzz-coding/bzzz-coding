@@ -55,6 +55,7 @@
       </p>
         <br />
         <p><strong>Node, Express, MongoDB, EJS, Javascript, HTML & CSS</strong> - Track and celebrate the completion of user's daily tasks with a GitHub-style heatmap!</p>
+      <a href="https://100devs-heatmap.cyclic.app/"><p>Link to app</p></a>
     </td>
   </tr>
   
