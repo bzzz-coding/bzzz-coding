@@ -33,7 +33,7 @@
 <table bordercolor="#66b2b2">
   <tr>
   <td width="50%" valign="top">
-    <a href="https://catlog.cyclic.app/"><h3 align="center">Catlog</h3></a>
+    <h3 align="center">Catlog</h3>
         <br />
       <a target="_blank" href="https://github.com/bzzz-coding/catlog-100hp">
             <video src="https://user-images.githubusercontent.com/86077274/200139108-50f27aa8-9c74-4935-8d52-51ba9e61a3b8.mov" width="100%"  alt="Catlog"/>
@@ -42,6 +42,7 @@
         <p align="center">
       </p>
         <p><strong>Node, Express, MongoDB, EJS, Javascript, HTML, TailwindCSS, daisyUI & CSS</strong> - Ensure every rescued cat a smooth transition to their furever home.</p>
+    <a href="https://catlog.cyclic.app/"><p>Link to app</p></a>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Daily Task Heatmap</h3>
