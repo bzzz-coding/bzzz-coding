@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux and PostgreSQL.**
 
-- ⚡ Here is my portfolio site https://bitian-zhang.netlify.app/
+- ⚡ Here is my portfolio site https://bzzz-coding.github.io/bz-portfolio/
 
 - 📝 I regularly write articles on https://bzzz.hashnode.dev/
 
