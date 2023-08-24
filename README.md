@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **a MERN-stack boardgame app.**
+- 🔭 I’m currently working on **a MERN-stack job application tracking app.**
 
-- 🌱 I’m currently learning **Redux and PostgreSQL.**
+- 🌱 I’m currently learning **Docker**.
 
 - ⚡ Here is my portfolio site https://bzzz-coding.github.io/bz-portfolio/
 
@@ -15,7 +15,6 @@
 
 - 📄 Connect with me on LinkedIn https://www.linkedin.com/in/bitian-zhang/
 
-- ✨ Check out my artwork at **tiantian-art.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
